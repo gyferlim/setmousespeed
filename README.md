@@ -2,8 +2,8 @@
 Set Mouse Pointer Speed through Power Shell Command Line
 
 This PowerShell script allows you to set the mouse pointer speed through the PowerShell command line.
-MSV = Mouse Speed Value, where 1 is the slowest and 20 is the fastest (maximum).
-You can set your mouse pointer speed by changing the MSV value at first line (default is 20, but it can be any value between 1 and 20).
+It will prompt you for speed input ( 1 - 20 )
+Enter your desire speed
 
 ## How to Run a PowerShell Script
 
